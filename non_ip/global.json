@@ -231,6 +231,7 @@
         "fastly.net",
         "feedly.com",
         "flickr.com",
+        "forbes.com",
         "genius.com",
         "getchu.com",
         "github.com",
@@ -623,7 +624,11 @@
         "jav",
         "pinterest",
         "porn"
-      ]
+      ],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }
