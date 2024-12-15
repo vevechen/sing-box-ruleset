@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "rules.ac",
         "vetted.ai",
         "pengtu.cc",
@@ -1333,6 +1334,7 @@
         "st-eu.dynamicyield.com",
         "cdn-eu.dynamicyield.com",
         "static.filestackapi.com",
+        "m3u8.girigirilove.com",
         "cdn.hongkongcard.com",
         "cdn1.identitymind.com",
         "spcdn.incartupsell.com",
@@ -1707,6 +1709,7 @@
         "i.creativecommons.org",
         "rawmarkdown.cloudflareaccess.org",
         "assets.gcore.pro",
+        "play.xfvod.pro",
         "pics.x-n-x-x.pro",
         "img.foresightnews.pro",
         "cms-assets.webediamovies.pro",
@@ -1942,10 +1945,10 @@
         "static-resource.np.community.playstation.net",
         "gfx-data.news-engineering.aws.wapo.pub",
         "cdn.rex.contents.rakuten.co.jp",
-        "jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net",
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
+        "jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "shortpixel.ai",
         "pztv.ca",
         "1passwordusercontent.ca",

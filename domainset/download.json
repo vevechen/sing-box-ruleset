@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "ghp.ci",
         "packagecloud.io",
         "iterm2.com",
@@ -225,10 +226,10 @@
         "versioncheck.addons.mozilla.org",
         "versioncheck-bg.addons.mozilla.org",
         "blizzard.gcdn.cloudn.co.kr",
-        "edge.steam-dns.top.comcast.net",
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
+        "edge.steam-dns.top.comcast.net"
       ],
       "domain_suffix": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "file.io",
         "ghcr.io",
         "mega.io",
