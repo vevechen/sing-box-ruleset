@@ -417,6 +417,9 @@
         "ovp.itv.com",
         "assets.msn.com",
         "image.mux.com",
+        "sp.nba.com",
+        "cdn.nba.com",
+        "tags.nba.com",
         "g1.nyt.com",
         "mwcm.nyt.com",
         "static01.nyt.com",
@@ -1797,6 +1800,7 @@
         "resources-live.sketch.cloud",
         "media.cleanshot.cloud",
         "assets.buttondown.email",
+        "jssdk.opin.media",
         "files.smashing.media",
         "cdn.deta.space",
         "cdn.hiive.space",
@@ -1949,6 +1953,7 @@
         "res-geo.cdn.office.net",
         "cdn.forms.office.net",
         "cdn.graph.office.net",
+        "support.content.office.net",
         "avatars.mds.yandex.net",
         "interactive-examples.mdn.mozilla.net",
         "cdn.mcauto-images-production.sendgrid.net",
@@ -1975,7 +1980,8 @@
         "static-resource.np.community.playstation.net",
         "gfx-data.news-engineering.aws.wapo.pub",
         "cdn.rex.contents.rakuten.co.jp",
-        "jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net"
+        "jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net",
+        "cdn.prod.ext.web.purview.azure.com"
       ],
       "domain_suffix": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
