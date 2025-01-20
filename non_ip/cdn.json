@@ -33,6 +33,7 @@
         "^static-[\\w.-][\\w.-]-cdn\\.eporner\\.com$",
         "^file[\\w.-]\\.mikuclub\\.fun$",
         "^cdn[\\w.-]\\.mikuclub\\.fun$",
+        "^assets[\\w.-]*?\\.freshdesk\\.com$",
         "^cdns\\.[\\w.-]*?\\.gigya\\.com$",
         "^sdk\\.[\\w.-]*?\\.braze\\.eu$",
         "^video-thumbnail2\\.fc2\\.com$",
