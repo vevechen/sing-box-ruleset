@@ -5,6 +5,8 @@
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "boot.netboot.xyz",
+        "ghgo.xyz",
+        "ghfast.top",
         "mirror.apad.pro",
         "download.pixelexperience.org",
         "get.pixelexperience.org",
@@ -37,6 +39,7 @@
         "cdn.fwupd.org",
         "downloads.xiph.org",
         "cdimage.kali.org",
+        "http.kali.org",
         "download.gimp.org",
         "invent.kde.org",
         "cdn.kde.org",
