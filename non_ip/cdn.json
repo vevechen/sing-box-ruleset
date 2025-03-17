@@ -20,7 +20,8 @@
         "-cdn.eporner.com",
         "cdn.adultempire.com",
         "-assets.worldsex.com",
-        "-thumbs.worldsex.com"
+        "-thumbs.worldsex.com",
+        "99avcdn"
       ],
       "domain_regex": [
         "^appcenter-filemanagement-[\\w.-]*?\\.cloudapp\\.net$",
