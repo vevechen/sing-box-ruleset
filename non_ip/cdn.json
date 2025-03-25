@@ -21,7 +21,8 @@
         "cdn.adultempire.com",
         "-assets.worldsex.com",
         "-thumbs.worldsex.com",
-        "99avcdn"
+        "99avcdn",
+        "-images.disco-api.com"
       ],
       "domain_regex": [
         "^appcenter-filemanagement-[\\w.-]*?\\.cloudapp\\.net$",
@@ -67,6 +68,7 @@
         "^media[\\w.-]\\.kissjav\\.com$",
         "^media[\\w.-][\\w.-]\\.kissjav\\.com$",
         "^chunk-[\\w.-]*?\\.mux\\.com$",
+        "^[\\w.-]*?\\.skyearth[\\w.-]\\.xyz$",
         "^[\\w.-]*?\\.img\\.[\\w.-]*?\\.sendibm[\\w.-]\\.com$",
         "^cdn[\\w.-]\\.18girlssex\\.com$"
       ]
